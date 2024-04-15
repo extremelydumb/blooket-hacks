@@ -1,0 +1,17 @@
+// DO NOT RUN THIS MORE THAN ONE TIME OR IF YOU'VE ALREADY RECEIVED ANY TOKENS OR XP TODAY. YOUR ACCOUNT WILL BE AUTO SUSPENDED
+
+fetch("https://GAMEMODE.blooket.com/api/users/add-rewards", {
+  body: "{"t\\":\\"661ca3d48b52b461695bb5da\\",\\"addedTokens\\":500,\\"addedXp\\":500}",
+  headers: {
+    Accept: "application/json, text/plain, */*",
+    "Content-Type": "application/json",
+    "Sec-Ch-Ua": ""Brave\\";v=\\"123\\", \\"Not:A-Brand\\";v=\\"8\\", \\"Chromium\\";v=\\"123\\"",
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": ""Windows\\"",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Gpc": "1"
+  },
+  method: "PUT"
+})
