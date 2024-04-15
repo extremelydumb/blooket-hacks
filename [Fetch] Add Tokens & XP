@@ -1,4 +1,7 @@
 // DO NOT RUN THIS MORE THAN ONE TIME OR IF YOU'VE ALREADY RECEIVED ANY TOKENS OR XP TODAY. YOUR ACCOUNT WILL BE AUTO SUSPENDED
+// Fetch code can be run in the browser console.
+// Run below this line.
+---
 
 fetch("https://GAMEMODE.blooket.com/api/users/add-rewards", {
   body: "{"t\\":\\"661ca3d48b52b461695bb5da\\",\\"addedTokens\\":500,\\"addedXp\\":500}",
