@@ -1,0 +1,8 @@
+{
+	"googleClientId": "",
+	"isDev": true,
+	"frontendIDBase": "https://id.blooket.com",
+	"frontendWWWBase": "https://www.blooket.com",
+	"frontendDashboardBase": "https://dashboard.blooket.com",
+	"securityBase": "https://s.blooket.com"
+}
